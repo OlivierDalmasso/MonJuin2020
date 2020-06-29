@@ -5,3 +5,5 @@
 ### 02-Les conditions.ipynb
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OlivierDalmasso/MonJuin2020/master?filepath=02-Les_conditions.ipynb)
 
+### 1SPE ondes
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/OlivierDalmasso/MonJuin2020/master?filepath=02-Les_conditions.ipynb)
